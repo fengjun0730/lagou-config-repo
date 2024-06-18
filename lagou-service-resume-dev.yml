@@ -1,0 +1,4 @@
+mysql:
+  url: dev-http://localhost:3306/dev
+lagou:
+  message: hello lagou,1000
